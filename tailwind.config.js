@@ -16,6 +16,10 @@ module.exports = {
           800: '#1e1e1e',
         },
       },
+      fontFamily: {
+        sans: ['var(--font-sans)'],
+        mono: ['var(--font-mono)'],
+      },
     },
   },
   plugins: [],
